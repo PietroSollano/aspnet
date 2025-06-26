@@ -3,6 +3,7 @@ using tarefas_app.Data;
 using tarefas_app.Models;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace tarefas_app.Controllers
 {
