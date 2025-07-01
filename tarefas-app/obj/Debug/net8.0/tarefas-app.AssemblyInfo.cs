@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarefas-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1efdb21e84d94c2420e8efd51321988fe844b57b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7095b56aa2ffc4ce8986dbab8822f41450e187b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarefas-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarefas-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
